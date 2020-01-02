@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/javyduty/todolist/static/css/main.fcf9c214.chunk.css",
+    "main.js": "/javyduty/todolist/static/js/main.4484ad7d.chunk.js",
+    "main.js.map": "/javyduty/todolist/static/js/main.4484ad7d.chunk.js.map",
+    "runtime-main.js": "/javyduty/todolist/static/js/runtime-main.c2102909.js",
+    "runtime-main.js.map": "/javyduty/todolist/static/js/runtime-main.c2102909.js.map",
+    "static/css/2.0b9fb118.chunk.css": "/javyduty/todolist/static/css/2.0b9fb118.chunk.css",
+    "static/js/2.a36fa530.chunk.js": "/javyduty/todolist/static/js/2.a36fa530.chunk.js",
+    "static/js/2.a36fa530.chunk.js.map": "/javyduty/todolist/static/js/2.a36fa530.chunk.js.map",
+    "index.html": "/javyduty/todolist/index.html",
+    "precache-manifest.12a62d2914d452a30a253c37df3b553c.js": "/javyduty/todolist/precache-manifest.12a62d2914d452a30a253c37df3b553c.js",
+    "service-worker.js": "/javyduty/todolist/service-worker.js",
+    "static/css/2.0b9fb118.chunk.css.map": "/javyduty/todolist/static/css/2.0b9fb118.chunk.css.map",
+    "static/css/main.fcf9c214.chunk.css.map": "/javyduty/todolist/static/css/main.fcf9c214.chunk.css.map",
+    "static/js/2.a36fa530.chunk.js.LICENSE": "/javyduty/todolist/static/js/2.a36fa530.chunk.js.LICENSE",
+    "static/media/font-awesome.min.css": "/javyduty/todolist/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2102909.js",
+    "static/css/2.0b9fb118.chunk.css",
+    "static/js/2.a36fa530.chunk.js",
+    "static/css/main.fcf9c214.chunk.css",
+    "static/js/main.4484ad7d.chunk.js"
+  ]
+}
